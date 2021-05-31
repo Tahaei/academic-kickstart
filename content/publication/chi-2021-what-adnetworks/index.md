@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Security Notifications in Static Analysis Tools: Developersʼ Attitudes, Comprehension, and Ability to Act on Them"
-authors: [Mohammad Tahaei, Kami Vaniea, Konstantin Beznosov, Maria Wolters]
+title: "“Developers Are Responsible”: What Ad Networks Tell Developers About Privacy"
+authors: [Mohammad Tahaei, Kami Vaniea]
 date: 2021-05-08
-doi: "10.1145/3411764.3445616"
+doi: "10.1145/3411763.3451805"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-06T11:48:34Z
@@ -17,10 +17,10 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*The ACM Conference on Human Factors in Computing
-  Systems (CHI)*"
+  Systems (CHI) Extended Abstracts*"
 # publication_short: "CHI '21"
 
-abstract: "Static analysis tools (SATs) have the potential to assist developers in finding and fixing vulnerabilities in the early stages of software development requiring them to be able to understand and act on tools’ notifications. To understand how helpful such SAT guidance is to developers, we ran an online experiment (N=132) where participants were shown four vulnerable code samples (SQL injection, hard-coded credentials, encryption, and logging sensitive data) along with SAT guidance, and asked to indicate the appropriate fix. Participants had a positive attitude towards both SAT notifications and particularly liked the example solutions and vulnerable code. Seeing SAT notifications also led to more detailed open-ended answers and slightly improved code correction answers. Still, most SAT (SpotBugs 67%, SonarQube 86%) and Control (96%) participants answered at least one code-correction question incorrectly. Prior software development experience, perceived vulnerability severity, and answer confidence all positively impacted answer accuracy."
+abstract: "Advertising networks enable developers to create revenue, but using them potentially impacts user privacy and requires developers to make legal decisions. To understand what privacy information ad networks give developers, we did a walkthrough of four popular ad network guidance pages with a senior Android developer by looking at the privacy-related information presented to developers. We found that information is focused on complying with legal regulations, and puts the responsibility for such decisions on the developer. Also, sample code and settings often have privacy-unfriendly defaults laced with dark patterns to nudge developers' decisions towards privacy-unfriendly options such as sharing sensitive data to increase revenue. We conclude by discussing future research around empowering developers and minimising the negative impacts of dark patterns."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -67,4 +67,10 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+links:
+- name: Position paper at Dark Patterns CHI Workshop
+  url: chi-2021-dark-patterns-workshop.pdf
 ---
+
+
+

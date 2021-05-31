@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Privacy Champions in Software Teams: Understanding Their Motivations, Strategies, and Challenges"
+title: "Deciding on Personalised Ads: Nudging Developers About User Privacy"
 authors: [Mohammad Tahaei, Alisa Frik, Kami Vaniea]
 date: 2021-05-08
-doi: "10.1145/3411764.3445768"
+# doi: "10.1145/3411764.3445768"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-06T11:39:44Z
@@ -16,11 +16,10 @@ publishDate: 2021-01-06T11:39:44Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The ACM Conference on Human Factors in Computing
-  Systems (CHI)*"
-# publication_short: "CHI '21"
+publication: "*Seventeenth Symposium on Usable Privacy and Security (SOUPS '21)*"
+# publication_short: "SOUPS '21"
 
-abstract: "Software development teams are responsible for making and implementing software design decisions that directly impact end-user privacy, a challenging task to do well. Privacy Champions—people who strongly care about advocating privacy—play a useful role in supporting privacy-respecting development cultures. To understand their motivations, challenges, and strategies for protecting end-user privacy, we conducted 12 interviews with Privacy Champions in software development teams. We find that common barriers to implementing privacy in software design include: negative privacy culture, internal prioritisation tensions, limited tool support, unclear evaluation metrics, and technical complexity. To promote privacy, Privacy Champions regularly use informal discussions, management support, communication among stakeholders, and documentation and guidelines. They perceive code reviews and practical training as more instructive than general privacy awareness and on-boarding training. Our study is a first step towards understanding how Privacy Champions work to improve their organisation's privacy approaches and improve the privacy of end- user products."
+abstract: "Mobile advertising networks present personalised advertisements to developers as a way to increase revenue, these typesof ads use data about users to select potentially more relevantcontent, but the choice framing also impacts developers’ deci-sions which in turn impacts their users’ privacy. Currently, adnetworks provide choices in developer-facing dashboards thatcontrol the types of information collected by the ad networkas well as how users will be asked for consent. Framing andnudging have been shown to impact users’ choices about privacy, we anticipate that they have a similar impact on choicesmade by developers. We conducted a survey-based onlineexperiment with 400 participants with experience in mobileapp development. Across six conditions, we varied the choiceframing of options around ad personalisation. Participants inthe condition where privacy consequences of ads personali-sation are highlighted in the options are significantly (11.06 times) more likely to choose non-personalised ads comparedto participants in the Control condition with no informationabout privacy. Participants’ choices of an ad type are driven byimpact on revenue, user privacy, and relevance to users. Ourfindings suggest that developers are impacted by interfacesand need transparent options."
 
 # Summary. An optional shortened abstract.
 summary: ""

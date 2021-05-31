@@ -35,9 +35,11 @@ projects: []
 publishDate: '2021-01-06T11:21:24.050105Z'
 publication_types:
 - '1'
-abstract:
-publication: '*Proceedings of the 2020 CHI Conference on Human Factors in Computing
-  Systems*'
-url_pdf: https://doi.org/10.1145/3313831.3376768
-doi: 10.1145/3313831.3376768
+abstract: "We analyse Stack Overflow (SO) to understand challenges and confusions developers face while dealing with privacy-related topics. We apply topic modelling techniques to 1,733 privacy-related questions to identify topics and then qualitatively analyse a random sample of 315 privacy-related questions. Identified topics include privacy policies, privacy concerns, access control, and version changes. Results show that developers do ask SO for support on privacy-related issues. We also find that platforms such as Apple and Google are defining privacy requirements for developers by specifying what ``sensitive'' information is and what types of information developers need to communicate to users (e.g. privacy policies). We also examine the accepted answers in our sample and find that 28% of them link to official documentation and more than half are answered by SO users without references to any external resources."
+publication: "*The ACM Conference on Human Factors in Computing
+  Systems (CHI)*"
+
+links:
+- name: Data Comics
+  url: data-2020-stackoverflow-dataComics.pdf
 ---

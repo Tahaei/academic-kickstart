@@ -8,8 +8,10 @@
 title = "Mohammad Tahaei"
 
 # The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://tahaei.github.io/"
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`. http://tahaei.github.io  https://mohammad.tahaei.com/
+baseurl = "https://mohammad.tahaei.com/"
+# baseurl = "http://tahaei.github.io/"
+
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -73,7 +75,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Taxonomies.
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
+  # tag = "tags"
+  # category = "categories"
+  # publication_type = "publication_types"
+  

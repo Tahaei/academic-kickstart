@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "``I Don't Know Too Much About It'': On the Security Mindsets of Computer Science Students"
+title: "“I Donʼt Know Too Much About It”: On the Security Mindsets of Computer Science Students"
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ projects: []
 publishDate: '2021-01-06T11:59:18.240395Z'
 publication_types:
 - '6'
-abstract: ''
+abstract: "The security attitudes and approaches of software developers have a large impact on the software they produce, yet we know very little about how and when these views are constructed. This paper investigates the security and privacy (S&P) perceptions, experiences, and practices of current Computer Science students at the graduate and undergraduate level using semi-structured interviews. We find that the attitudes of students already match many of those that have been observed in professional level developers. Students have a range of hacker and attack mindsets, lack of experience with security APIs, a mixed view of who is in charge of S&P in the software life cycle, and a tendency to trust other peoples' code as a convenient approach to rapidly build software. We discuss the impact of our results on both curriculum development and support for professional developers."
 publication: '*Socio-Technical Aspects in Security and Trust*'
 url_pdf: https://www.springer.com/book/9783030559571
 ---

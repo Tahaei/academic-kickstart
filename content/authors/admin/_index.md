@@ -10,30 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Edinburgh
-  url: "https://www.ed.ac.uk"
+- name: University of Bristol
+  url: "http://bristol.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Studying usable seucrity and privacy for software developers.
+bio: Studying usable privacy and security for software developers.
 
 interests:
-- Usable security and privacy
+- Usable privacy and security
 - Human-computer interaction
 - Software engineering
 
 education:
   courses:
-  - course: PhD in Informatics
+  - course: Ph.D. in Informatics
     institution: University of Edinburgh
-    year: Summer 2021
-  - course: MSc in Computer Science
+    year: 2021
+  - course: M.Sc. in Computer Science
     institution: University of Bonn
     year: 2017
-  - course: MSc in Information Technology
+  - course: M.Sc. in Information Technology
     institution: University of Tehran
     year: 2013
 
@@ -45,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mohammad.tahaei@ed.ac.uk'  # For a direct email link, use "mailto:mohammad.tahaei@ed.ac.uk".
+  link: 'mailto:mohammad.tahaei@bristol.ac.uk'  # For a direct email link, use "mailto:mohammad.tahaei@bristol.ac.uk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mTahaei
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tahaei
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=kSOwgm0AAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD candidate at the School of Informatics, University of Edinburgh. My reseach is on developer-centred security and privacy. Find more about my research and publications in our lab's [wiki page](https://www.wiki.ed.ac.uk/display/TRG/Developer-Centred+Security+and+Privacy). 
+I advocate for including the human factor in the design process of privacy and security technologies. My current research looks at privacy and security technologies and interfaces directed at software developers. I apply qualitative and quantitative methods for evaluating, designing, and building such technologies and interfaces that can assist software developers in building private and secure systems. 

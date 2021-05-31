@@ -36,7 +36,7 @@ projects: []
 publishDate: '2021-01-06T12:08:04.483154Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Payment cultures around the globe are diverse and have significant implications on security, privacy and trust. We study usable security aspects of payment cultures in four culturally distinct societies. Based on a qualitative study in Germany and Iran, we developed an online survey and deployed it in Germany, Iran, China, and the United States. The results reveal significant differences between the studied countries. For example, we found that participants from Iran and China are more comfortable with credential sharing and German participants were most accepting towards cryptocurrencies. We suggest these kinds of differences in payment culture need to be considered in the context of HCI research when evaluating current payment mechanisms or designing new ones.'
 publication: '*2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)*'
 doi: 10.1109/EuroSPW51379.2020.00035
 ---
