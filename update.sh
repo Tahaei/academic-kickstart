@@ -1,6 +1,9 @@
+#!/bin/bash
+
 hugo
-cd public
-git add .
-git commit -m "Updated"
-git push origin master
-cd ..
+cp -r /Users/mohammad/Developer/tahaei-website/public/ /Users/mohammad/Developer/tahaei-website/mohammad/
+
+sftp tahaei@tahaei.com <<EOF
+put -r /Users/mohammad/Developer/tahaei-website/mohammad /public_html/
+exit
+EOF

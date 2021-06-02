@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deciding on Personalised Ads: Nudging Developers About User Privacy"
+title: "Deciding on Personalized Ads: Nudging Developers About User Privacy"
 authors: [Mohammad Tahaei, Alisa Frik, Kami Vaniea]
 date: 2021-05-08
 # doi: "10.1145/3411764.3445768"
@@ -16,10 +16,11 @@ publishDate: 2021-01-06T11:39:44Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Seventeenth Symposium on Usable Privacy and Security (SOUPS '21)*"
+publication: "*The Seventeenth Symposium on Usable Privacy and Security (SOUPS '21)*"
 # publication_short: "SOUPS '21"
 
-abstract: "Mobile advertising networks present personalised advertisements to developers as a way to increase revenue, these typesof ads use data about users to select potentially more relevantcontent, but the choice framing also impacts developers’ deci-sions which in turn impacts their users’ privacy. Currently, adnetworks provide choices in developer-facing dashboards thatcontrol the types of information collected by the ad networkas well as how users will be asked for consent. Framing andnudging have been shown to impact users’ choices about privacy, we anticipate that they have a similar impact on choicesmade by developers. We conducted a survey-based onlineexperiment with 400 participants with experience in mobileapp development. Across six conditions, we varied the choiceframing of options around ad personalisation. Participants inthe condition where privacy consequences of ads personali-sation are highlighted in the options are significantly (11.06 times) more likely to choose non-personalised ads comparedto participants in the Control condition with no informationabout privacy. Participants’ choices of an ad type are driven byimpact on revenue, user privacy, and relevance to users. Ourfindings suggest that developers are impacted by interfacesand need transparent options."
+abstract: "Mobile advertising networks present personalized advertisements to developers as a way to increase revenue, these types of ads use data about users to select potentially more relevant content, but the choice framing also impacts developers' decisions which in turn impacts their users' privacy. Currently, ad networks provide choices in developer-facing dashboards that control the types of information collected by the ad network as well as how users will be asked for consent. Framing and nudging have been shown to impact users' choices about privacy, we anticipate that they have a similar impact on choices made by developers. We conducted a survey-based online experiment with 400 participants with experience in mobile app development. 
+Across six conditions, we varied the choice framing of options around ad personalisation. Participants in the condition where privacy consequences of ads personalisation are highlighted in the options are significantly (11.06 times) more likely to choose non-personalized ads compared to participants in the Control condition with no information about privacy. Participants' choices of an ad type are driven by impact on revenue, user privacy, and relevance to users. Our findings suggest that developers are impacted by interfaces and need transparent options."
 
 # Summary. An optional shortened abstract.
 summary: ""
